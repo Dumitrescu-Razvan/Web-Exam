@@ -44,7 +44,7 @@ To create and run migrations in .NET EF, follow these steps:
 That's it! You have successfully created and run a migration using .NET EF.
 
 
-# ExamFE
+# ExamFE - Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
