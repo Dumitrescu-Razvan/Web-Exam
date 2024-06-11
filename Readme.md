@@ -5,14 +5,14 @@ This is a skeleton project for the exam in the course .net. The project is a sim
 ## Project Structure
 
 The project has the following entities that must be implemented(delete the one that is not fitting for your project):
-    - One ( that represents an entity that can be stored in the database)
-    - Many ( that represents an entity that can be stored in the database and that is in a one-to-many relationship with the One entity)
-    - User ( that represents a user that can log in to the application)
+- One ( that represents an entity that can be stored in the database)
+- Many ( that represents an entity that can be stored in the database and that is in a one-to-many relationship with the One entity)
+- User ( that represents a user that can log in to the application)
 
 The project has the following controllers that must be implemented(delete the one that is not fitting for your project):
-    - OneController ( that is responsible for handling requests related to the One entity)
-    - ManyController ( that is responsible for handling requests related to the Many entity)
-    - UserController ( that is responsible for handling requests related to the User entity)
+- OneController ( that is responsible for handling requests related to the One entity)
+- ManyController ( that is responsible for handling requests related to the Many entity)
+- UserController ( that is responsible for handling requests related to the User entity)
 
 ## Authentication
 Authentication is not implemented in the project. You can implement it using the built-in authentication system in ASP.NET Core or just store the user's username and password or id in a global variable.
