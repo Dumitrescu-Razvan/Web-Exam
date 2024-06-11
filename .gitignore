@@ -1,0 +1,56 @@
+# .NET
+*.dll
+*.exe
+*.pdb
+*.user
+*.bin
+*.vsidx
+*.bak
+*.cache
+*.suo
+*.tmp
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sln.docstates
+*.tlb
+*.tlh
+*.bak
+*.obj
+*.ilk
+*.mdf
+*.ldf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+*.swp
+
+/node_modules
+/wwwroot/node_modules
+
+# Angular
+node_modules/
+dist/
+*.log
+
+# JSP
+*.class
+*.war
+*.ear
+*.jar
+
+# PHP
+vendor/
+composer.lock
+composer.phar
+.env
